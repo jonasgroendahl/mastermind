@@ -1,0 +1,32 @@
+.item {
+  width: 30px;
+  height: 30px;
+  border-radius: 15px;
+  margin: 2px;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.history,
+.items,
+.current-selection {
+  display: flex;
+}
+
+.half {
+  background-color: black;
+}
+
+.full {
+  background-color: red;
+}
